@@ -22,14 +22,21 @@ Bu küçük Python aracı, girilen bir IP adresine ait bilgileri almak için [ip
 #🧰 Gereksinimler (Kullanım)
 
 Aşağıdaki Python kütüphaneleri gereklidir:
-'''bash
+
 apt update
+
 apt upgrade
+
 pkg install git
+
 pkg install ptyhon
+
 pip install requests colorama
+
 git clone https://github.com/Codingzerox/turc0-ip-scan
+
 cd turc0-ip-scan
+
 python3 iptoplama.py
 
 📌 Notlar
